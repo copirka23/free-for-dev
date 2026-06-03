@@ -1,1 +1,1 @@
-branch2 version A
+branch2 version B
