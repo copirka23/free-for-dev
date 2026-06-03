@@ -1,1 +1,2 @@
 branch1 version 3
+Дополнительный коммит 1 в branch1
